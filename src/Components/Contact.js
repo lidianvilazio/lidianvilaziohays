@@ -16,10 +16,10 @@ class Contact extends React.Component {
           <div className="mdl-cell mdl-cell--12-col mdl-card__supporting-text no-padding ">
           <h1 className="massive_header">Say hello!</h1>
               <div className="social_icons social">
-                <a className="fa fa-envelope fa-2x" href="mailto:lidianvilazio@hotmail.com"></a>
-                <a className="fa fa-twitter fa-2x" href="https://twitter.com/LidianVilazio"></a>
-                <a className="fa fa-linkedin fa-2x" href="https://www.linkedin.com/in/lidian-vil%C3%A1zio-hays/"></a>
-                <a className="fa fa-github-alt fa-2x" href="https://github.com/lidianvilazio"></a>
+                <a className="fa fa-envelope fa-2x" href="mailto:lidianvilazio@hotmail.com" target="_blank"></a>
+                <a className="fa fa-twitter fa-2x" href="https://twitter.com/LidianVilazio" target="_blank"></a>
+                <a className="fa fa-linkedin fa-2x" href="https://www.linkedin.com/in/lidian-vil%C3%A1zio-hays/" target="_blank"></a>
+                <a className="fa fa-github-alt fa-2x" href="https://github.com/lidianvilazio" target="_blank"></a>
               </div>
           </div>
         </div>
