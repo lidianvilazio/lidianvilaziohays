@@ -46,7 +46,6 @@ class Projects extends React.Component {
                 <div className="card-body">
                   <h5 className="card-title">BookSystem</h5>
                   <p className="card-text">Built a system that allows users to perform a keyword search for specific books via google books api. Users can track their selected books within their personal inventory, and then users can share the books with other users.</p>
-                  <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   <div className="social_icons social">
                     <a className="fa fa-github-alt fa-2x" href="https://github.com/lidianvilazio/Book-System" target="_blank"></a>
                     <a className="fa fa-tv fa-2x" href="https://www.youtube.com/watch?v=xF8oJXjVvIo&feature=youtu.be" target="_blank"></a>
